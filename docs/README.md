@@ -1,7 +1,5 @@
 ## Don't Fall
 
-## JS Project Proposal: Rocketman
-
 ### Background
 
 Don't fall is a platform jumper game. You play as the Jumper. The Jumper must continue to run on platforms. A high score is given based on how far one goes before falling off the screen.
