@@ -4,7 +4,7 @@
 
 ### Background
 
-Don't fall is an platform jumper game. You play as the Jumper. The Jumper must continue to run on platforms. A high score is given based on how far one goes before falling off the screen.
+Don't fall is a platform jumper game. You play as the Jumper. The Jumper must continue to run on platforms. A high score is given based on how far one goes before falling off the screen.
 
 ### Functionality & MVP  
 
