@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#jumperCanvas {
+ background-image: url('../assets/nes.gif');
+}
+
+#intro {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 600px;
+  margin-top: 20px;
+}
+
+#startBtn {
+  height: 50px;
+  width: 100px;
+  font-size: 20px;
+}
