@@ -19,7 +19,7 @@ The controls are below:
 * Up Arrow (x2): double jump (when jumping from the platforms)
 
 ## How to Play
-To Play:  [Live](www.rithyhuot.com/dontfall)
+To Play:  [Live][game]
 
 You will see the following start screen, which lays out the controls:
 
@@ -34,7 +34,7 @@ When you fall, you will see a game over screen:
 
 ![Gameover Screen](./assets/readme/gameover.png "Gameover Screen")
 
-
+[game]: www.rithyhuot.com/dontfall/
 ## Game world generation
 
 ### Generate Jumper
