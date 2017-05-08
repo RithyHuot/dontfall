@@ -34,7 +34,7 @@ When you fall, you will see a game over screen:
 
 ![Gameover Screen](./assets/readme/gameover.png "Gameover Screen")
 
-[game]: www.rithyhuot.com/dontfall/
+[game]: http://www.rithyhuot.com/dontfall/
 ## Game world generation
 
 ### Generate Jumper
