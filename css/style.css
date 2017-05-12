@@ -13,7 +13,8 @@ body {
 }
 
 #jumperCanvas {
- background-image: url('../assets/nes.gif');
+ /*background-image: url('../assets/nes.gif');*/
+ background-image: url(https://s3.amazonaws.com/dontfall-dev/nes.gif);
 }
 
 #intro {
