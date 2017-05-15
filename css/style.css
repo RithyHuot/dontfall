@@ -1,9 +1,34 @@
 body {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(175, 181, 221);
+}
+
+.center {
+  margin-top: 50px;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
   /*background-color: black;*/
+}
+
+
+.right {
+  width: 200px;
+  margin-top: 75px;
+  margin-left: 50px;
+  margin-right: 25px;
+  font-size: 20px;
+}
+
+.right div {
+  margin-top: 15px;
+}
+
+.right .game-direction {
+  margin-top: 75px;
 }
 
 #intro a {
