@@ -2,7 +2,8 @@ body {
   display: flex;
   text-align: center;
   justify-content: center;
-  background-color: rgb(175, 181, 221);
+  /*background-color: rgb(175, 181, 221);*/
+  background-image: url('../assets/main.png');
 }
 
 .center {
@@ -21,6 +22,8 @@ body {
   margin-left: 50px;
   margin-right: 25px;
   font-size: 20px;
+  color: rgb(209, 209, 209);
+  font-family: sans-serif;
 }
 
 .right div {
@@ -33,13 +36,18 @@ body {
 
 #intro a {
   text-decoration: none;
-  color: black;
+  /*color: black;*/
+  color: rgb(209, 209, 209);
   font-size: 30px;
 }
 
+#intro a:hover {
+  opacity: 0.8;
+}
+
 #jumperCanvas {
- /*background-image: url('../assets/nes.gif');*/
- background-image: url(https://s3.amazonaws.com/dontfall-dev/nes.gif);
+ background-image: url('../assets/mount2.png');
+ /*background-image: url(https://s3.amazonaws.com/dontfall-dev/nes.gif);*/
 }
 
 #intro {
