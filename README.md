@@ -13,26 +13,23 @@ Don't fall is a platform jumper game. You play as the Jumper. The Jumper must co
 
 ## Controls
 The controls are below:
-* s: begins the game
+* S: begins the game
 * Enter: restarts the game if the jumper has fallen.
 * Up Arrow: jump
 * Up Arrow (x2): double jump (when jumping from the platforms)
+* F: shoot fireball
+* T: toggle sound in game
 
 ## How to Play
 To Play:  [Live][game]
 
 You will see the following start screen, which lays out the controls:
 
-![Start Screen](./assets/readme/start_screen.png "Start Screen")
+![Start Screen](./assets/readme/start.png "Start Screen")
 
 Jump from platform to platform:
 
-![Gameplay Screen](./assets/readme/gameplay.png "Gameplay Screen")
-
-
-When you fall, you will see a game over screen:
-
-![Gameover Screen](./assets/readme/gameover.png "Gameover Screen")
+![Gameplay Screen](./assets/readme/dontfall.gif "Gameplay Screen")
 
 [game]: http://www.rithyhuot.com/dontfall/
 ## Game world generation
